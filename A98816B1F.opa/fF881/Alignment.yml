@@ -1,0 +1,28 @@
+segment_sources:
+  ICD1D789C:
+    type: origin_type
+    relation: translation
+    language: en
+  IF631B83E:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  4aa4fcc4a5a44de69259b110f95ba894:
+    ICD1D789C: 0a9fb5ec87354b7f972be37f0fda18c1
+    IF631B83E: 2ad6d564ce6e4da5b1f0b92e718ec069
+  1abaab02ff784cbc92be434034ba9133:
+    ICD1D789C: f58b52f64d914f05be3f7b71496d2f57
+    IF631B83E: 39da54d60b8345d5909a396a329219cb
+  c57b2ac0ae9b4ab1849b734129a5c3cf:
+    ICD1D789C: 3de5ce07349c4ccfaba952118f7eba24
+    IF631B83E: 0b3d7f53ecf248168d2fc6fa7bc7ea36
+  88f2a1dfcfe744b6984fca0ee06e92a4:
+    ICD1D789C: 17e76c27f47c4e56aa378ccc065a8bdc
+    IF631B83E: 36da43686b8b48fe9829131892b652d1
+  16c5494b2894431889e636629e0f08a1:
+    ICD1D789C: 9236f3e08bd14af3a487b85c539fa501
+    IF631B83E: 259404c26b634b03970eaf410420f4cc
+  ba9cc842f98249f2835d8ae383200482:
+    ICD1D789C: a2936a7a8eca436dbb31476998f7811c
+    IF631B83E: f5d915d906954fc7bb176760cf2d2350
